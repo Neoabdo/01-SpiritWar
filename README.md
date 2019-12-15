@@ -1,2 +1,2 @@
-# 01-SpiritWar
+# SpiritWar
 A test game 
